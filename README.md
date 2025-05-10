@@ -17,3 +17,6 @@ Servo-mounted sensors enable the bot to “look” left and right, assessing the
 A small vacuum motor enables dust collection as the bot navigates.
 
 >This project serves as a fun, educational introduction to robotics and automation, combining practical electronics, programming, and mechanics for a real-world application.
+
+
+It works with a smart robot car kit
